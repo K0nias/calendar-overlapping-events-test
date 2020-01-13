@@ -1,0 +1,12 @@
+{
+  "autoload": {
+    "psr-4":  {
+      "Calendar\\": "src/"
+    }
+  },
+
+  "require": {
+    "php": "^7.1"
+  }
+
+}
